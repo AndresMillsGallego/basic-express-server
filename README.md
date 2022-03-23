@@ -3,7 +3,7 @@
 As the name suggest, this is a **B**asic **E**xpress **S**erver!
 We built this app in code 401 as a means of practicing getting an Express server up and running.
 
-[Heroku Link]()
+[Heroku Link](https://andres-basic-express-server.herokuapp.com/)
 
 [Github Repo](https://github.com/AndresMillsGallego/basic-express-server)
 
@@ -14,6 +14,7 @@ We built this app in code 401 as a means of practicing getting an Express server
 To install this app just follow these steps:
 
 - Clone down this repo
+- CD into your new directory
 - npm install
 
 And that is it!
