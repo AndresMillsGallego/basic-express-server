@@ -2,6 +2,7 @@
 
 As the name suggest, this is a **B**asic **E**xpress **S**erver!
 We built this app in code 401 as a means of practicing getting an Express server up and running.
+PR links can be found at the bottom of this document[^1]
 
 [Heroku Link](https://andres-basic-express-server.herokuapp.com/)
 
@@ -35,5 +36,9 @@ Project by: Andres Mills Gallego
 
 At this point we only have a `GET` request active.  
 This app uses `Express`, `Dotenv`, `Supertest` and `Jest`
+
+## Pull Requests
+
+[^1]: [Lab02 ](https://github.com/AndresMillsGallego/basic-express-server/pulls?q=is%3Apr+is%3Aclosed)
 
 
