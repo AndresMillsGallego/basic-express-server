@@ -49,7 +49,7 @@ I successfully set up my `AWS` account this morning
 
 [AWS Deployed Link #2](http://basic-express-cli-env.eba-ye7spjvv.us-west-2.elasticbeanstalk.com/)
 
-[Lab 16 PR]()
+[Lab 16 PR](https://github.com/AndresMillsGallego/basic-express-server/pull/3)
 
 ## Pull Requests
 
