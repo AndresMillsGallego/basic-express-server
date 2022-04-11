@@ -37,8 +37,24 @@ Project by: Andres Mills Gallego
 At this point we only have a `GET` request active.  
 This app uses `Express`, `Dotenv`, `Supertest` and `Jest`
 
+## Lab 16 AWS
+
+For this lab we selected a past project (in this case, the basic Express Server), and deployed it to AWS using Elastic Beanstalk both from the terminal, and the GUI.
+
+My approach to this lab is to revisit the class lecture and make sure I am completing all steps correctly.  
+
+I successfully set up my `AWS` account this morning
+
+[AWS Deployed Link #1](http://basicexpress-env.eba-pmcggp27.us-west-2.elasticbeanstalk.com/)
+
+[AWS Deployed Link #2](http://basic-express-cli-env.eba-ye7spjvv.us-west-2.elasticbeanstalk.com/)
+
+[Lab 16 PR]()
+
 ## Pull Requests
 
 [^1]: [Lab02 ](https://github.com/AndresMillsGallego/basic-express-server/pulls?q=is%3Apr+is%3Aclosed)
+
+
 
 
